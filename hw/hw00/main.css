@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(149, 225, 253) center 0 url("simpsons-fon.jpg") no-repeat ;
+}
+
+h1{
+    margin: 25px;
+    background: rgb(19, 252, 2);
+    text-align: center;
+}
+
+ul{
+    margin: 50px;
+    padding: 25px;
+    width: 200px;
+    background: gold;
+}
+
+li{
+    margin: 10px;
+    background: red;
+    color: rgb(55, 65, 34);
+}
